@@ -2,4 +2,4 @@
 
 A Rick and Morty Wiki App for iOS
 
--Written in Swift
+- Written in Swift
