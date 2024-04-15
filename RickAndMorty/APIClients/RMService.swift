@@ -16,7 +16,7 @@ final class RMService {
     /// Shared singleton instance
     private init() {}
     
-    /// Send Rick and Morty API call
+    /// Send a Rick and Morty API call
     /// - Parameters:
     ///   - request: Request instance
     ///   - type: Type of obj expected to get back
